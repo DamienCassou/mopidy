@@ -98,6 +98,14 @@ Theremin
 `Theremin <https://github.com/pweiskircher/Theremin>`_ is a graphical MPD
 client for OS X. It is unmaintained, but generally works well with Mopidy.
 
+MPDel
+-----
+
+`MPDel <https://gitlab.petton.fr/mpdel/mpdel>`_ is an MPD client working within `Emacs <https://www.gnu.org/software/emacs/>`_.
+
+.. image:: mpd-client-mpdel.png
+    :width: 649
+    :height: 438
 
 .. _android_mpd_clients:
 
